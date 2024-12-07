@@ -1,0 +1,15 @@
+.terms-page,
+.privacy-page {
+  max-width: 900px;
+  display: block;
+  margin: 0 auto;
+}
+
+strong {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+li > strong {
+  font-size: 14px;
+}

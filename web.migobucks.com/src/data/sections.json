@@ -1,0 +1,1802 @@
+{
+  "slider_v1": {
+    "items": [
+      {
+        "title1": "Better",
+        "title2": "promotes sales & profits",
+        "title_color": "software",
+        "description": "There are many variations of passages of Lorem Ipsum available, </br> but the majority have suffered alteration.",
+        "button_text": "Read More",
+        "button_url": "#",
+        "image_url1": "assets/img/banner/1.png",
+        "image_url2": "assets/img/banner/2.png",
+        "image_url3": "assets/img/banner/3.png"
+      },
+      {
+        "title1": "Crafting online",
+        "title2": "for you",
+        "title_color": "software",
+        "description": "There are many variations of passages of Lorem Ipsum available, </br> but the majority have suffered alteration.",
+        "button_text": "Read More",
+        "button_url": "#",
+        "image_url1": "assets/img/banner/01.png",
+        "image_url2": "assets/img/banner/02.png",
+        "image_url3": "assets/img/banner/03.png"
+      },
+      {
+        "title1": "Most advantage",
+        "title2": "",
+        "title_color": "Technology",
+        "description": "There are many variations of passages of Lorem Ipsum available, </br> but the majority have suffered alteration.",
+        "button_text": "Read More",
+        "button_url": "#",
+        "image_url1": "assets/img/banner/1.png",
+        "image_url2": "assets/img/banner/2.png",
+        "image_url3": "assets/img/banner/03.png"
+      }
+    ]
+  },
+  "slider_v2": {
+    "items": [
+      {
+        "title1": "Sustain your business powered by our app and platform services ",
+        "title2": "",
+        "title_color": "",
+        "description": "Improve technology skills  and raise real income prospects",
+        "button1_image": "assets/img/banner/4.png",
+        "button1_url": "#",
+        "button2_image": "assets/img/banner/5.png",
+        "button2_url": "#",
+        "image_url1": "assets/img/banner/15.png",
+        "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+        "video_text": "Watch the Video"
+      },
+      {
+        "title1": "ON - JOB TRAINING",
+        "title2": "",
+        "title_color": "",
+        "description": "Translate your skills, talents, values, and interests into  successful careers",
+        "button1_image": "assets/img/banner/4.png",
+        "button1_url": "#",
+        "button2_image": "assets/img/banner/5.png",
+        "button2_url": "#",
+        "image_url1": "assets/img/banner/066.png",
+        "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+        "video_text": "Watch the Video"
+      },
+      {
+        "title1": "Migobucks",
+        "title2": "",
+        "title_color": "App",
+        "description": "Build ,sustain and evolve your business ventures",
+        "button1_image": "assets/img/banner/4.png",
+        "button1_url": "#",
+        "button2_image": "assets/img/banner/5.png",
+        "button2_url": "#",
+        "image_url1": "assets/img/banner/66.png",
+        "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+        "video_text": "Watch the Video"
+      }
+    ]
+  },
+  "slider_v3": {
+    "items": [
+      {
+        "title1": "Smart Technology",
+        "title2": "Most advantage ",
+        "title_color": "Technology",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the ",
+        "description2": "majority have suffered alteration.",
+        "image_url": "assets/img/banner/7.png",
+        "btntxt": "Read More"
+      },
+      {
+        "title1": "Smart Technology",
+        "title2": "Crafting online software ",
+        "title_color": "for you",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the ",
+        "description2": "majority have suffered alteration.",
+        "image_url": "assets/img/banner/7.png",
+        "btntxt": "Read More"
+      },
+      {
+        "title1": "Smart Technology",
+        "title2": "Better App for your promotes ",
+        "title_color": "sales",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the ",
+        "description2": "majority have suffered alteration.",
+        "image_url": "assets/img/banner/7.png",
+        "btntxt": "Read More"
+      }
+    ]
+  },
+  "slider_v4": {
+    "items": [
+      {
+        "title1": "We Can Solve Your",
+        "title_color": "Business Needs",
+        "description": "There are many variations of passages of Lorem Ipsum available,  ",
+        "description2": "but the majority have suffered alteration.",
+        "image_url": "assets/img/banner/9.png",
+        "url": "#",
+        "btntxt": "Read More"
+      },
+      {
+        "title1": "Turning  all Ideas Into Real",
+        "title_color": "Success",
+        "description": "There are many variations of passages of Lorem Ipsum available,  ",
+        "description2": "but the majority have suffered alteration.",
+        "image_url": "assets/img/banner/10.png",
+        "url": "#",
+        "btntxt": "Read More"
+      },
+      {
+        "title1": "Better App for your",
+        "title_color": "promotes sales",
+        "description": "There are many variations of passages of Lorem Ipsum available,  ",
+        "description2": "but the majority have suffered alteration.",
+        "image_url": "assets/img/banner/10.png",
+        "url": "#",
+        "btntxt": "Read More"
+      }
+    ]
+  },
+  "banner": {
+    "title": "Migobucks <span>App</span>",
+    "subtitle": "Shop, Share & Impress ",
+    "btn_text": "Read More",
+    "btn_url": "/coming-soon",
+    "image_url1": "assets/img/startup/slider/1.png",
+    "image_url2": "assets/img/startup/slider/2.png",
+    "image_url3": "assets/img/startup/slider/3.png",
+    "image_url4": "assets/img/startup/slider/4.png",
+    "image_url5": "assets/img/startup/slider/5.png"
+  },
+
+  "features": {
+    "sectiontitle": "What",
+    "sectiontitle_color": "We Do ?",
+    "short_description": "Migobucks, is a consultant powered brand owned by Migobucks Technologies PVT Ltd, a software development company operating across India and headquarters in Bangalore . We provide an E-Commerce, consultant and partner apps and product services which finds optimal solutions for business problems while providing an exhilarating shopping experience for individual customers .We also provide a socio economic platform for revenue generation opportunities with affiliate programs and partner networks. Migobucks entails tasks and processes to develop and implement growth opportunities within and between organizations.You can enhance your core business applications as the backbone of a smarter business driving connections between consumers and producers in an ecosystem. there are various products and services that are not necessarily owned but satisfies a specific need driven through these connections can be promoted and utilized through our platform",
+    "btn_text": "Read More",
+    "btn_url": "#",
+    "featurescontent1": [
+      {
+        "title": "Clean Design",
+        "icon": "assets/img/features/1.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle."
+      },
+      {
+        "title": "Customizable",
+        "icon": "assets/img/features/3.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker handle."
+      }
+    ],
+    "featurescontent2": [
+      {
+        "title": "Fully Responsive",
+        "icon": "assets/img/features/2.png",
+        "content": "Our support team will get assistance from AI-powered suggestions making."
+      },
+      {
+        "title": "Retina Ready",
+        "icon": "assets/img/features/4.png",
+        "content": "Our support team will get assistance from AI-powered suggestions."
+      }
+    ]
+  },
+  "featuresv2": {
+    "title": "Work from anywhere on ",
+    "color": "Multiple Devices",
+    "content1": "Access and manage your books from your computer, laptop, tablet, or smartphone anytime you choose. Create access privileges so that your colleague or accountant can login and work with your data online",
+    "content2": "Access and manage your books from your computer, laptop, tablet, or smartphone anytime you choose.",
+    "btn_text": "Read More ",
+    "btn_url": "#",
+    "image": "assets/img/others/17.png"
+  },
+  "paymentinfo": {
+    "title": "Choose from retail's best ",
+    "color": "Integrated Payments",
+    "content": "Accept all the ways your customers want to pay, in-store, online and on-the go. Vend integrates with leading payment providers for a seamless checkout experience.",
+    "image": "assets/img/others/18.png",
+    "items": [
+      {
+        "content": "Easily accept any payment type"
+      },
+      {
+        "content": "Save time and remove double handling"
+      },
+      {
+        "content": "Enhance the customer experience"
+      },
+      {
+        "content": "Open your store with online payments"
+      }
+    ]
+  },
+  "talentedpeople": {
+    "sectiontitle": "300+ Talented People",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
+    "image": "assets/img/others/map.png",
+    "items": [
+      {
+        "number": "30",
+        "title": "UI/UX Designer"
+      },
+      {
+        "number": "228",
+        "title": "Developer"
+      },
+      {
+        "number": "8",
+        "title": "Architect"
+      },
+      {
+        "number": "30",
+        "title": "Project Manager"
+      }
+    ]
+  },
+  "team": {
+    "sectiontitle": "Innovative Team",
+    "sectiontitle_color": "Our ",
+    "short_description": "Migobucks, is a brand owned by migobucks technologies private limited, bangalore, a software company operating worldwide.Migobucks, is a brand owned by migobucks technologies private limited, bangalore, a software company operating worldwide.  ",
+    "items": [
+      {
+        "name": "Abedin Abed",
+        "url": "#",
+        "designation": "Creative Director",
+        "content": "",
+        "image_url": "assets/img/startup/team/1.jpg"
+      },
+      {
+        "name": "Jabedin jabed",
+        "url": "#",
+        "designation": "Projector Manager",
+        "content": "",
+        "image_url": "assets/img/startup/team/2.jpg"
+      },
+      {
+        "name": "Moin Khan",
+        "url": "#",
+        "designation": "Art Director",
+        "content": "",
+        "image_url": "assets/img/startup/team/3.jpg"
+      },
+      {
+        "name": "Rashed Khan",
+        "url": "#",
+        "designation": "Web Developer",
+        "content": "",
+        "image_url": "assets/img/startup/team/5.png"
+      }
+    ]
+  },
+  "teamv2": {
+    "sectiontitle": "Meet Our ",
+    "sectiontitle_color": "Team",
+    "short_description": "Riyaqas One of the best Software Development company.",
+    "items": [
+      {
+        "title": "User Experience",
+        "color": "Problem solver",
+        "content": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative web development company.",
+        "name": "Refule Mia",
+        "designation": "User Experience Eng.",
+        "image_url": "assets/img/startup/team/t1.png"
+      },
+      {
+        "title": "Marketing executive",
+        "color": "at Riyaqas",
+        "content": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative web development company.",
+        "name": "John Doe",
+        "designation": "User Experience Eng.",
+        "image_url": "assets/img/startup/team/t2.png"
+      },
+      {
+        "title": "User Experience",
+        "color": "Problem solver",
+        "content": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative web development company.",
+        "name": "Refule Mia",
+        "designation": "User Experience Eng.",
+        "image_url": "assets/img/startup/team/t3.png"
+      }
+    ]
+  },
+  "teampage": {
+    "sectiontitle": "Riyaqas Creative",
+    "sectiontitle_color": "Team",
+    "short_description": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork.",
+    "items": [
+      {
+        "name": "Abedin Abed",
+        "url": "#",
+        "designation": "Creative Director",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/1.jpg"
+      },
+      {
+        "name": "Jabedin jabed",
+        "url": "#",
+        "designation": "Projector Manager",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/2.jpg"
+      },
+      {
+        "name": "Moin Khan",
+        "url": "#",
+        "designation": "Art Director",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/3.jpg"
+      },
+      {
+        "name": "Rashed Khan",
+        "url": "#",
+        "designation": "Web Developer",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/9.png"
+      },
+      {
+        "name": "Djairo van",
+        "url": "#",
+        "designation": "Lead Developer",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/5.png"
+      },
+      {
+        "name": "Terry Martin",
+        "url": "#",
+        "designation": "Designer",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/6.png"
+      },
+      {
+        "name": "Xav Cotton",
+        "url": "#",
+        "designation": "Marketing manager",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/7.png"
+      },
+      {
+        "name": "Jamie burn",
+        "url": "#",
+        "designation": "Marketing Exe.",
+        "content": "Riyaqas One of the best Software Development company.",
+        "image_url": "assets/img/startup/team/8.png"
+      }
+    ]
+  },
+  "softboxabout": {
+    "sectiontitle": "What is",
+    "sectiontitle_color": "Riyaqas?",
+    "short_description": "SoftBox One of the best Softwire Development company. SoftBox is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore business",
+    "bgimg": "assets/img/bg/1h1.png",
+    "imgurl": "assets/img/we-provide/5.png",
+    "list_item": [
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Concept Design"
+      },
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Concept Development"
+      },
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Concept Implementation"
+      },
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Testing work"
+      }
+    ]
+  },
+  "softbox": {
+    "sectiontitle": "Friendly support ",
+    "sectiontitle_color": "from the retail professionals",
+    "content": "Get our expert team working for you. Enjoy award winning 24/7 support from retail professionals. We’re ready to get your business set up just right, and keep you growing from there. Get our expert team working for you.",
+    "image": "assets/img/others/19.png",
+    "btn_txt": "Read More",
+    "btn_url": "#"
+  },
+  "softboxv2": {
+    "title1": "The ",
+    "color": "all-in-one solution ",
+    "title2": "for small business management ",
+    "content1": "Business management is the cornerstone of Riyaqas. Process payments, generate ",
+    "content2": "reports, manage your employees and organize your stock with inventory software.",
+    "image": "assets/img/we-provide/5.png",
+    "btn_txt": "Read More",
+    "btn_url": "#",
+    "items": [
+      { "content": "Point of Sale" },
+      { "content": "Order Management" },
+      { "content": "Split Payments" },
+      { "content": "Ingredients Management" },
+      { "content": "Tax Management" },
+      { "content": "Cash Discount" }
+    ]
+  },
+  "whyChooseUs": {
+    "sectiontitle": "Shopping Experience",
+    "sectiontitle_color": "New ",
+    "videoimage": "assets/img/startup/why-choose/1.png",
+    "videourl": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+    "short_description": "Migobucks One of the best Software Development company. Migobucks is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our solutions on a regular basis.",
+    "bgimg": "assets/img/startup/why-choose/2.png",
+    "list_item": [
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Team Work"
+      },
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Good Job Invironment"
+      },
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Concept Implementation"
+      },
+      {
+        "icon": "assets/img/icons/check.png",
+        "text": "Work Freedom"
+      }
+    ]
+  },
+  "skills": {
+    "sectiontitle": "We Have Strong",
+    "sectiontitle_color": "Skill",
+    "image": "assets/img/startup/skill/1.png",
+    "short_description": "By using our Store Management System, brands can add the Store and Store-type which will be added in their proﬁle. This helps the end users to identify the physical locations to buy or experience the products and to redeem the vouchers that they bought in our customer app. ",
+    "list_item": [
+      {
+        "title": "User Interface Design",
+        "percentage": "95"
+      },
+      {
+        "title": "User Experience",
+        "percentage": "86"
+      },
+      {
+        "title": "Market Analysis",
+        "percentage": "90"
+      },
+      {
+        "title": "Client Satisfication",
+        "percentage": "97"
+      }
+    ]
+  },
+  "offer": {
+    "sectiontitle": "What We are",
+    "sectiontitle_color": "Offering?",
+    "image": "assets/img/startup/skill/1.png",
+    "short_description": "We are working on a Social Commerce platform which can solve potential brand products selling problems for business owners; can give an edge and 360° better shopping experience for individual customers; also providing a wonderful platform for individuals and influencers who wish to earn additional money by doing few interesting and valuable tasks.     ",
+    "list_item": [
+      {
+        "title": "Challenging Project",
+        "icon": "assets/img/startup/offer/1.png"
+      },
+      {
+        "title": "Competitive salary",
+        "icon": "assets/img/startup/offer/2.png"
+      },
+      {
+        "title": "Play Zone",
+        "icon": "assets/img/startup/offer/3.png"
+      },
+      {
+        "title": "Strong Team",
+        "icon": "assets/img/startup/offer/4.png"
+      },
+      {
+        "title": "Decorated Office",
+        "icon": "assets/img/startup/offer/5.png"
+      },
+      {
+        "title": "Free Coffee & Snacks",
+        "icon": "assets/img/startup/offer/6.png"
+      }
+    ]
+  },
+  "client": {
+    "sectiontitle": "Our valuable",
+    "sectiontitle_color": "Client",
+    "short_description": "Migobucks, is a brand owned by Migobucks Technologies Private Limited - Bangalore, a software company operating worldwide. ",
+    "list_item": [
+      {
+        "image": "assets/img/startup/client/1.png"
+      },
+      {
+        "image": "assets/img/startup/client/2.png"
+      },
+      {
+        "image": "assets/img/startup/client/3.png"
+      },
+      {
+        "image": "assets/img/startup/client/4.png"
+      },
+      {
+        "image": "assets/img/startup/client/5.png"
+      },
+      {
+        "image": "assets/img/startup/client/1.png"
+      }
+    ]
+  },
+  "clientv2": {
+    "sectiontitle": "Trusted by",
+    "sectiontitle_color": "over 40,300",
+    "sectiontitle2": " world’s leading companies",
+    "list_item": [
+      {
+        "image": "assets/img/startup/client/1.png",
+        "url": "#"
+      },
+      {
+        "image": "assets/img/startup/client/2.png",
+        "url": "#"
+      },
+      {
+        "image": "assets/img/startup/client/3.png",
+        "url": "#"
+      },
+      {
+        "image": "assets/img/startup/client/4.png",
+        "url": "#"
+      },
+      {
+        "image": "assets/img/startup/client/5.png",
+        "url": "#"
+      },
+      {
+        "image": "assets/img/startup/client/1.png",
+        "url": "#"
+      }
+    ]
+  },
+  "clientv3": {
+    "list_item": [
+      {
+        "url": "#",
+        "image": "assets/img/startup/client/6.png"
+      },
+      {
+        "url": "#",
+        "image": "assets/img/startup/client/7.png"
+      },
+      {
+        "url": "#",
+        "image": "assets/img/startup/client/8.png"
+      },
+      {
+        "url": "#",
+        "image": "assets/img/startup/client/9.png"
+      },
+      {
+        "url": "#",
+        "image": "assets/img/startup/client/10.png"
+      },
+      {
+        "url": "#",
+        "image": "assets/img/startup/client/11.png"
+      },
+      {
+        "url": "#",
+        "image": "assets/img/startup/client/7.png"
+      }
+    ]
+  },
+  "softboxleftsideimage": {
+    "sectiontitle_part1": "All kind of",
+    "sectiontitle_color": "Business tools",
+    "sectiontitle_part2": "integration.",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
+    "imgurl": "assets/img/business-tool/1.png",
+    "section_bg": "assets/img/bg/1h2.png",
+    "section_after_bg": "../../assets/img/service/bg.png",
+    "list_item": [
+      {
+        "icon": "assets/img/business-tool/pencil.png",
+        "text": "Our support team will get assistance from AI-powered suggestions, making it quicker than."
+      },
+      {
+        "icon": "assets/img/business-tool/search.png",
+        "text": "Our support team will get assistance from AI-powered suggestions, making it quicker than."
+      },
+      {
+        "icon": "assets/img/business-tool/settings.png",
+        "text": "Our support team will get assistance from AI-powered suggestions, making it quicker than."
+      }
+    ]
+  },
+  "softboxmanage": {
+    "sectiontitle_part1": "Migobucks",
+    "sectiontitle_color": "App",
+    "short_description": "A platform for sharing brand experience, create personal circles and connect with them by Sharing and earning rewards, free vouchers and lots of fun. Most of us are used to buying from different brands and sharing experiences in our society and we put into social media just to get some likes and shares in our customer application, you will be able to get all the offers and cash backs from different brands in one place, buy from your favorite brands, search the nearby offers and connect with your people to share rewards and to show-off your personality. In Migobucks, they will be able to use  free credits and vouchers through circle program, so that he can incraese his purchase capacity.",
+    "imgurl": "assets/img/we-provide/4.png"
+  },
+  "MigoBuddy": {
+    "sectiontitle_part1": "Migobucks",
+    "sectiontitle_color": "Buddy",
+    "short_description": "Migobucks Buddy is a platform for earning money and rewards by doing some tasks. Anyone can register as a buddy through the mobile app or web app, even the existing migobucks users too. They will be able to earn through Migo-tasks and Micro-jobs It is to open a new and innovative avenue of Sales promoting channels through the powerful Buddy and Customer sub- Ecosystems.Once the brand has imported the exclusive products or vouchers in the brand booster will be converted as promotional tasks and will be visible to the users in our buddy app, these tasks will be shown in the Migo tasks tab",
+    "imgurl": "assets/img/we-provide/4.png"
+  },
+  "MigoBrand": {
+    "sectiontitle_part1": "Migobucks",
+    "sectiontitle_color": "Brand",
+    "short_description": " We are working on a Social Commerce platform which can solve potential brand products selling problems for business owners, by providing 360° better shopping experience for individual customers; also providing a wonderful platform for individuals and influencers who wish to earn additional money by doing few interesting and valuable tasks. By using our Store Management System, brands can add the Store and Store-type which will be added in their proﬁle. This helps the end users to identify the physical locations to buy or experience the products and to redeem the vouchers that they bought in our customer app. Brands can also see what business is happening in the outlets and can also make sure the minimum business is happening in their stores.",
+    "imgurl": "assets/img/we-provide/4.png"
+  },
+  "video": {
+    "title": "Let's See <br/> How it",
+    "title_color": "Work",
+    "description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle requests to handle suggestions assistance it requests.",
+    "image_url": "assets/img/we-provide/01.png",
+    "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+    "list": [
+      {
+        "icon": "assets/img/icons/9.png",
+        "title": "Unique Design"
+      },
+      {
+        "icon": "assets/img/icons/11.png",
+        "title": "Mobile ready"
+      },
+      {
+        "icon": "assets/img/icons/10.png",
+        "title": "Custom domain"
+      },
+      {
+        "icon": "assets/img/icons/12.png",
+        "title": "Testing work"
+      }
+    ]
+  },
+  "videov2": {
+    "title": "<br/> Business <br/> Oppertunities.   <span>",
+    "title_color": "New ",
+    "description": "",
+    "image_url": "assets/img/we-provide/01.png",
+    "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+    "list": [
+      {
+        "icon": "assets/img/icons/9.png",
+        "title": "Unique Design"
+      },
+      {
+        "icon": "assets/img/icons/11.png",
+        "title": "Mobile ready"
+      },
+      {
+        "icon": "assets/img/icons/10.png",
+        "title": "Custom domain"
+      },
+      {
+        "icon": "assets/img/icons/12.png",
+        "title": "Testing work"
+      }
+    ]
+  },
+  "videov4": {
+    "title": "About ",
+    "title_color": "Us",
+    "description": "Migobucks, is a brand owned by migobucks technologies private limited, bangalore, a software company operating worldwide. We are working on a Social Commerce platform which can solve few problems of business owners, and can give a better shopping experience for individual customers, also providing a platform to make money for influencers and individuals who wants to earn some money by doing a few tasks.",
+    "image_url": "assets/img/we-provide/01.png",
+    "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+    "list": [
+      {
+        "icon": "assets/img/icons/9.png",
+        "title": "Unique Design"
+      },
+      {
+        "icon": "assets/img/icons/11.png",
+        "title": "Mobile ready"
+      },
+      {
+        "icon": "assets/img/icons/10.png",
+        "title": "Custom domain"
+      },
+      {
+        "icon": "assets/img/icons/12.png",
+        "title": "Testing work"
+      }
+    ]
+  },
+  "services": {
+    "sectiontitle": "What",
+    "sectiontitle_color": "Service",
+    "sectiontitle_2": "We are Providing?",
+    "short_description": "Offer your business with the best assistance for growth.",
+    "items": [
+      {
+        "title": "Branding Idendity",
+        "icon": "assets/img/service/project.png",
+        "url": "#",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "title": "Business Consultancy",
+        "icon": "assets/img/service/hiring.png",
+        "url": "#",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "title": "UI/UX - Design",
+        "icon": "assets/img/service/checklist.png",
+        "url": "#",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "title": "Market Analysis",
+        "icon": "assets/img/service/analytics.png",
+        "url": "#",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      }
+    ]
+  },
+  "servicesv2": {
+    "sectiontitle": "Migobucks ",
+    "sectiontitle_color": "Brands",
+    "short_description": "Improve your skills, boost your earnings and show your freelance power",
+    "items": [
+      {
+        "title": "Management",
+        "icon": "assets/img/icons/f1.png",
+        "url": "#",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker handle."
+      },
+      {
+        "title": "Customer Support",
+        "icon": "assets/img/icons/f2.png",
+        "url": "#",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker handle."
+      },
+      {
+        "title": "Customer Support",
+        "icon": "assets/img/icons/f2.png",
+        "url": "#",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker handle."
+      }
+    ]
+  },
+  "servicesv3": {
+    "items": [
+      {
+        "icon": "assets/img/startup/service/1.png",
+        "title": "Great Advices",
+        "content": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative"
+      },
+      {
+        "icon": "assets/img/startup/service/2.png",
+        "title": "24/7 Support",
+        "content": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative"
+      },
+      {
+        "icon": "assets/img/startup/service/3.png",
+        "title": "Optimal Choice",
+        "content": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative"
+      },
+      {
+        "icon": "assets/img/startup/service/4.png",
+        "title": "Clear Navigation",
+        "content": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative"
+      }
+    ]
+  },
+  "servicesv4": {
+    "items": [
+      {
+        "icon": "assets/img/icons/s01.png",
+        "title": "Easy to use",
+        "content": "Riyaqas One of the best Softwire Development company."
+      },
+      {
+        "icon": "assets/img/icons/s02.png",
+        "title": "Automatic",
+        "content": "Riyaqas One of the best Softwire Development company."
+      },
+      {
+        "icon": "assets/img/icons/s03.png",
+        "title": "Take a Command",
+        "content": "Riyaqas One of the best Softwire Development company."
+      },
+      {
+        "icon": "assets/img/icons/s04.png",
+        "title": "Artificial Intelligence",
+        "content": "Riyaqas One of the best Softwire Development company."
+      }
+    ]
+  },
+  "servicesv5": {
+    "title1": "What ",
+    "color": "Service ",
+    "title2": "We are Providing? ",
+    "description": "Offer your business with the best assistance for growth.",
+    "items": [
+      {
+        "icon": "assets/img/service/1.png",
+        "title": "Digital Analytics",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to support requests."
+      },
+      {
+        "icon": "assets/img/service/2.png",
+        "title": "Digital Marketing",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to support requests."
+      },
+      {
+        "icon": "assets/img/service/3.png",
+        "title": "Email Marketing",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to support requests."
+      },
+      {
+        "icon": "assets/img/service/4.png",
+        "title": "Market Analysis",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to support requests."
+      }
+    ]
+  },
+  "servicesv6": {
+    "title1": "Benefits ",
+    "title2": "of Point of Sale ",
+    "description": "Guaranteed to The save you time, increase the accuracy of your inventory, and help to you make informed decisions for your The business",
+    "items": [
+      {
+        "icon": "assets/img/icons/s21.png",
+        "title": "Save Time",
+        "content": "Everyday save your time 1/2 hours that our system automates manage"
+      },
+      {
+        "icon": "assets/img/icons/s22.png",
+        "title": "Increase Sales",
+        "content": "Everyday save your time 1/2 hours that our system automates manage"
+      },
+      {
+        "icon": "assets/img/icons/s23.png",
+        "title": "Make Info Decisions",
+        "content": "Everyday save your time 1/2 hours that our system automates manage"
+      },
+      {
+        "icon": "assets/img/icons/s24.png",
+        "title": "Access your data",
+        "content": "Everyday save your time 1/2 hours that our system automates manage"
+      }
+    ]
+  },
+  "servicesv7": {
+    "title1": "Our ",
+    "title2": "Services ",
+    "description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions.",
+    "items": [
+      {
+        "icon": "assets/img/icons/ss11.png",
+        "title": "Storage & Backup",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec justo rutrum leo feugiat tincidunt.",
+        "url": "/services"
+      },
+      {
+        "icon": "assets/img/icons/ss12.png",
+        "title": "Automatic",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec justo rutrum leo feugiat tincidunt.",
+        "url": "/services"
+      },
+      {
+        "icon": "assets/img/icons/ss13.png",
+        "title": "Take a Command",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec justo rutrum leo feugiat tincidunt.",
+        "url": "/services"
+      },
+      {
+        "icon": "assets/img/icons/ss14.png",
+        "title": "Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec justo rutrum leo feugiat tincidunt.",
+        "url": "/services"
+      },
+      {
+        "icon": "assets/img/icons/ss15.png",
+        "title": "Easy to use",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec justo rutrum leo feugiat tincidunt.",
+        "url": "/services"
+      },
+      {
+        "icon": "assets/img/icons/ss16.png",
+        "title": "Automatic",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec justo rutrum leo feugiat tincidunt.",
+        "url": "/services"
+      }
+    ]
+  },
+  "softwarestore": {
+    "title1": "Perfect POS software for most ",
+    "title2": "retail stores",
+    "description": "Perfect POS software for most retail stores. Access and manage your books from Riyaqas.",
+    "items": [
+      {
+        "icon": "assets/img/icons/ss1.png",
+        "title": "Restaurent",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss2.png",
+        "title": "Mega Shop",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss3.png",
+        "title": "Handicraft",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss4.png",
+        "title": "Home Appliance",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss5.png",
+        "title": "Hospital",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss6.png",
+        "title": "Dispensary",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss7.png",
+        "title": "Sports & Outdoors",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss8.png",
+        "title": "Beauty Product",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss9.png",
+        "title": "Storage",
+        "url": "#"
+      },
+      {
+        "icon": "assets/img/icons/ss10.png",
+        "title": "Toy & Hobbies",
+        "url": "#"
+      }
+    ]
+  },
+  "businessmanage": {
+    "sectiontitle": "Quick &amp; Easy",
+    "sectionsubtitle": "Process to manage",
+    "image": "assets/img/others/4.png",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
+    "items": [
+      {
+        "title": "Secure and reliable"
+      },
+      {
+        "title": "Predictable pricing"
+      },
+      {
+        "title": "Build better apps faster"
+      }
+    ]
+  },
+  "about": {
+    "sectiontitle": "About the",
+    "color": "Artificial Intelligence",
+    "image": "assets/img/others/10.png",
+    "short_description": "Riyaqas One of the best Softwire Development company. Riyaqas is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore",
+    "items": [
+      {
+        "icon": "assets/img/icons/t4.png"
+      },
+      {
+        "icon": "assets/img/icons/t5.png"
+      },
+      {
+        "icon": "assets/img/icons/t6.png"
+      }
+    ]
+  },
+  "help": {
+    "sectiontitle": "Our Strong team help ",
+    "subtitle": "you to",
+    "sectioncolor": "Succeed",
+    "image": "assets/img/others/4.png",
+    "content1": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore",
+    "content2": "From concept design to development, testing &amp; implementation, our team is here to support and guide you every step of the way."
+  },
+  "helpv2": {
+    "sectiontitle": "How to get ",
+    "color": "better Service",
+    "image": "assets/img/others/9.png",
+    "items": [
+      {
+        "content": "Riyaqas One of the best Softwire Development company"
+      },
+      {
+        "content": "From concept design to development, testing & implementation"
+      },
+      {
+        "content": "our team is here to support and guide you every step of the way."
+      },
+      {
+        "content": "Our cost efficient and structured teamwork"
+      },
+      {
+        "content": "Riyaqas One of the best Softwire Development company"
+      },
+      {
+        "content": "our team is here to support and guide you every step of the way."
+      }
+    ]
+  },
+  "helpv3": {
+    "title1": "Get ",
+    "color": "tips & tricks ",
+    "title2": "on how to Promote your sales. ",
+    "description1": "Riyaqas One of the best Softwire Development company. Riyaqas is at",
+    "description2": "as the most innovative web development company.",
+    "image": "assets/img/others/13.png",
+    "items": [
+      {
+        "content": "Riyaqas One of the best Softwire Development company"
+      },
+      {
+        "content": "From concept design to development, testing & implementation"
+      },
+      {
+        "content": "our team is here to support and guide you every step of the way."
+      },
+      {
+        "content": "Our cost efficient and structured teamwork"
+      },
+      {
+        "content": "Riyaqas One of the best Softwire Development company"
+      },
+      {
+        "content": "our team is here to support and guide you every step of the way."
+      },
+      {
+        "content": "From concept design to development, testing"
+      }
+    ]
+  },
+  "markeking": {
+    "title": "We craft ",
+    "color": "marketing",
+    "subtitle": "& digital products that grow businesses.",
+    "content1": "Riyaqas One of the best Softwire Development company. Riyaqas is at the forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore business solutions on a regular basis. business solutions on a regular basis. business on a regular basis.business",
+    "content2": "From concept design to development, testing & implementation, our team is here to support and guide you every step of the way.",
+    "image": "assets/img/others/8.png",
+    "items": [
+      {
+        "icon": "assets/img/others/m1.png",
+        "content": "We craft marketing & digital products that grow businesses."
+      },
+      {
+        "icon": "assets/img/others/m2.png",
+        "content": "We craft marketing & digital products that grow businesses."
+      },
+      {
+        "icon": "assets/img/others/m3.png",
+        "content": "We craft marketing & digital products that grow businesses."
+      }
+    ]
+  },
+  "markekingv2": {
+    "title": "Start Your Own ",
+    "color": "Digital Marketing",
+    "subtitle": "In No Time",
+    "content": "Riyaqas One of the best Softwire Development company. Riyaqas is at the  forefront as the most innovative web development company.",
+    "image": "assets/img/others/8.png",
+    "items": [
+      {
+        "icon": "assets/img/business-tool/pencil.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than.",
+        "mg": "mg-top-45"
+      },
+      {
+        "icon": "assets/img/business-tool/search.png",
+        "content": "Our support team will get assistance from AI-powered suggestions."
+      },
+      {
+        "icon": "assets/img/business-tool/settings.png",
+        "content": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support."
+      }
+    ]
+  },
+  "businesstime": {
+    "title": "Start Your Own ",
+    "color": "Digital Marketing",
+    "subtitle": "Business Time",
+    "content1": "Riyaqas One of the best Software Development company. Riyaqas is at",
+    "content2": "the forefront as the most innovative web development company.",
+    "image": "assets/img/bg/12.png",
+    "items": [
+      {
+        "icon": "assets/img/business-tool/pencil.png",
+        "content": "Our support team will get from AI-powered suggestions."
+      },
+      {
+        "icon": "assets/img/business-tool/search.png",
+        "content": "Our support team will get assistance from AI-powered."
+      },
+      {
+        "icon": "assets/img/business-tool/settings.png",
+        "content": "making it quicker than ever to handle support."
+      }
+    ]
+  },
+  "casestudy": {
+    "title": "Our  ",
+    "color": "case ",
+    "title2": "Business Time",
+    "content": "Offer your business with the best assistance for growth.",
+    "image": "assets/img/bg/12.png",
+    "items": [
+      {
+        "image": "assets/img/blog/9.png",
+        "url": "#",
+        "content": "Digital Marketing Problem Solving Meating"
+      },
+      {
+        "image": "assets/img/blog/10.png",
+        "url": "#",
+        "content": "We are Solving Digital Marketing System"
+      },
+      {
+        "image": "assets/img/blog/8.png",
+        "url": "#",
+        "content": "Market Analysis Process We are Solving"
+      }
+    ]
+  },
+  "data_analytics": {
+    "sectiontitle": "Get the Real time Data ",
+    "sectionsubtitle": "Analytics",
+    "image": "assets/img/others/5.png",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker assistance than ever to handle support requests. Our support team will get",
+    "items": [
+      {
+        "title": "Our support team will get assistance from AI-powered suggestions, making it quicker than.",
+        "icon": "assets/img/business-tool/pencil.png"
+      },
+      {
+        "title": "Our support team will get assistance from AI-powered suggestions.",
+        "icon": "assets/img/business-tool/search.png"
+      },
+      {
+        "title": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+        "icon": "assets/img/business-tool/settings.png"
+      }
+    ]
+  },
+  "business_soluation": {
+    "sectiontitle": "Perfect ",
+    "section_color": "solution",
+    "section_sub_title": "for your business",
+    "image": "assets/img/others/6.png",
+    "video": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our supportteam will get assistance from AI-powered suggestions, making itquicker than ever to handle support requests.",
+    "items": [
+      {
+        "title": "Our support team will get assistance from AI-powered suggestions, making it quicker than.",
+        "icon": "assets/img/business-tool/pencil.png"
+      },
+      {
+        "title": "Our support team will get assistance from AI-powered suggestions.",
+        "icon": "assets/img/business-tool/search.png"
+      },
+      {
+        "title": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+        "icon": "assets/img/business-tool/settings.png"
+      }
+    ]
+  },
+  "subscribe": {
+    "sectiontitle": "Get our latest",
+    "sectiontitle_color": "Newslatter",
+    "short_description": "Offer your business with the best assistance for growth."
+  },
+  "screenshots": {
+    "sectiontitle": "Amazing App",
+    "sectiontitle_color": "Screen",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions.",
+    "images": [
+      "assets/img/screenshot/1.png",
+      "assets/img/screenshot/2.png",
+      "assets/img/screenshot/3.png",
+      "assets/img/screenshot/4.png",
+      "assets/img/screenshot/5.png"
+    ]
+  },
+  "softboxtab": {
+    "sectiontitle": "Developers",
+    "sectiontitle_color": "First",
+    "imgurl": "assets/img/we-provide/6.png",
+    "tabs": [
+      {
+        "id": "tab1",
+        "tab_name": "Riyaqas",
+        "tab_content": "Riyaqas One of the best Softwire Development company. The forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore business solutions on a regular. From concept design to development, testing & implementation, our team is here to support and guide you every step of the way."
+      },
+      {
+        "id": "tab2",
+        "tab_name": "Curl",
+        "tab_content": "Riyaqas Two of the best Softwire Development company. The forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore business solutions on a regular. From concept design to development, testing & implementation, our team is here to support and guide you every step of the way."
+      },
+      {
+        "id": "tab3",
+        "tab_name": "Resize",
+        "tab_content": "Riyaqas Three of the best Softwire Development company. The forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore business solutions on a regular. From concept design to development, testing & implementation, our team is here to support and guide you every step of the way."
+      },
+      {
+        "id": "tab4",
+        "tab_name": "Doct",
+        "tab_content": "Riyaqas Four of the best Softwire Development company. The forefront as the most innovative web development company. Our cost efficient and structured teamwork justifies our position. Our clients count on our offshore business solutions on a regular. From concept design to development, testing & implementation, our team is here to support and guide you every step of the way."
+      }
+    ]
+  },
+  "pricingtable": {
+    "sectiontitle": "Choose your",
+    "sectiontitle_color": "pricing",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
+    "tables": [
+      {
+        "title": "INDIVIDUAL",
+        "currency": "$",
+        "price": "Free",
+        "duration": "/anully",
+        "icon": "assets/img/price/1.png",
+        "url": "#",
+        "features": [
+          "1000 Messages per month",
+          "2 GB file storage",
+          "20 Projects per month",
+          "Premium support"
+        ]
+      },
+      {
+        "title": "SMALL BUSINESS",
+        "currency": "$",
+        "price": "11",
+        "duration": "/anully",
+        "icon": "assets/img/price/2.png",
+        "url": "#",
+        "features": [
+          "1000 Messages per month",
+          "2 GB file storage",
+          "20 Projects per month",
+          "Premium support"
+        ]
+      },
+      {
+        "title": "MEDIUM COMPANY",
+        "currency": "$",
+        "price": "22",
+        "duration": "/anully",
+        "icon": "assets/img/price/3.png",
+        "url": "#",
+        "features": [
+          "1000 Messages per month",
+          "2 GB file storage",
+          "20 Projects per month",
+          "Premium support"
+        ]
+      },
+      {
+        "title": "ENTERPRISE",
+        "currency": "$",
+        "price": "33",
+        "duration": "/anully",
+        "icon": "assets/img/price/4.png",
+        "url": "#",
+        "features": [
+          "1000 Messages per month",
+          "2 GB file storage",
+          "20 Projects per month",
+          "Premium support"
+        ]
+      }
+    ]
+  },
+  "pricingtablev2": {
+    "sectiontitle": "Choose your",
+    "sectiontitle_color": "pricing",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
+    "tables": [
+      {
+        "title": "INDIVIDUAL",
+        "currency": "$",
+        "price": "Free",
+        "duration": "/anully",
+        "icon": "assets/img/price/1.png",
+        "url": "#",
+        "features": [
+          "1000 Messages per month",
+          "2 GB file storage",
+          "20 Projects per month",
+          "Premium support"
+        ]
+      },
+      {
+        "title": "SMALL BUSINESS",
+        "currency": "$",
+        "price": "11",
+        "duration": "/anully",
+        "icon": "assets/img/price/2.png",
+        "url": "#",
+        "features": [
+          "1000 Messages per month",
+          "2 GB file storage",
+          "20 Projects per month",
+          "Premium support"
+        ]
+      },
+      {
+        "title": "MEDIUM COMPANY",
+        "currency": "$",
+        "price": "22",
+        "duration": "/anully",
+        "icon": "assets/img/price/3.png",
+        "url": "#",
+        "features": [
+          "1000 Messages per month",
+          "2 GB file storage",
+          "20 Projects per month",
+          "Premium support"
+        ]
+      }
+    ]
+  },
+
+  "whatwedo": {
+    "sectiontitle": "Why",
+    "sectiontitle_color": "Migobucks? ",
+    "offertitel": "Why",
+    "offer_color": "Migobucks ",
+    "short_description": "",
+    "items": [
+      {
+        "title": "Free Brand promotion",
+        "icon": "assets/img/startup/service/1.png",
+        "content": "We do your brand promotional, you can focus one your core business and revenue."
+      },
+      {
+        "title": "Connect with people",
+        "icon": "assets/img/startup/service/2.png",
+        "content": "Share your shopping experience by creating a story and sharing it across your circles and earn migo credits. "
+      },
+      {
+        "title": "Brand stories",
+        "icon": "assets/img/startup/service/3.png",
+        "content": "Create brand stories and share them across your circles to build a network to influence others."
+      },
+      {
+        "title": "Be part of scoial impact",
+        "icon": "assets/img/startup/service/4.png",
+        "content": "Join with public figures on social commitment activity and be part of making a social impact."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectiontitle": "What Our",
+    "sectiontitle_color": "Client Say?",
+    "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
+    "items": [
+      {
+        "client": "Ema Wilson",
+        "designation": "CEO at craft",
+        "star": 5,
+        "imgurl": "assets/img/client/5.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "client": "John Mojika",
+        "designation": "CTO of Uxa",
+        "star": 5,
+        "imgurl": "assets/img/client/6.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "client": "Refule Mia",
+        "designation": "Branding Idendity",
+        "star": 5,
+        "imgurl": "assets/img/client/4.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "client": "Ema Wilson",
+        "designation": "CTO of Uxa",
+        "star": 5,
+        "imgurl": "assets/img/client/5.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "client": "John Mojika",
+        "designation": "CTO of Uxa",
+        "star": 5,
+        "imgurl": "assets/img/client/6.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "client": "John Mojika",
+        "designation": "CTO of Uxa",
+        "star": 5,
+        "imgurl": "assets/img/client/4.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      }
+    ]
+  },
+  "testimonial_v1": {
+    "sectiontitle": "Testimonials",
+    "sectiontitle_color": "",
+    "short_description": "Do not just listen to us, check out what our clients are saying!",
+    "items": [
+      {
+        "client": "Ema Wilson",
+        "designation": "CEO at craft",
+        "star": 5,
+        "imgurl": "assets/img/client/1.png",
+        "content": "If you aren't using Hala Talents, you're missing out, groundbreaking stuff. I am very pleased."
+      },
+      {
+        "client": "John Mojika",
+        "designation": "CTO of Uxa",
+        "star": 5,
+        "imgurl": "assets/img/client/2.png",
+        "content": "If you aren't using Hala Talents, you're missing out, groundbreaking stuff. I am very pleased."
+      },
+      {
+        "client": "Refule Mia",
+        "designation": "Branding Idendity",
+        "star": 5,
+        "imgurl": "assets/img/client/3.png",
+        "content": "If you aren't using Hala Talents, you're missing out, groundbreaking stuff. I am very pleased."
+      }
+    ]
+  },
+  "testimonial_v2": {
+    "items": [
+      {
+        "client": "Ema Wilson",
+        "designation": "CEO at craft",
+        "clientimg": "assets/img/business/testimonial/2.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "client": "John Mojika",
+        "designation": "CTO of Uxa",
+        "clientimg": "assets/img/business/testimonial/3.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      },
+      {
+        "client": "Refule Mia",
+        "designation": "Branding Idendity",
+        "clientimg": "assets/img/business/testimonial/3.png",
+        "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+      }
+    ]
+  },
+  "blogs": {
+    "sectiontitle": "LATEST BLOG",
+    "blogs": [
+      {
+        "title": "Top inspirational apps UI for you 2019",
+        "date": "20 Nov. 2018",
+        "imgurl": "/assets/img/blog/4.jpg",
+        "author": "Appiya",
+        "comment": "05 Comments",
+        "category": "Apps UI",
+        "content": "Far curiosity incommode now led smallness allowance. Favour bed assure son things yet. She consisted consulted elsewhere happiness disposing household any old the. Widow downs you new shade drift hopes small."
+      },
+      {
+        "title": "Trendy Google apps you should check 2019",
+        "date": "20 Nov. 2018",
+        "imgurl": "/assets/img/blog/4.jpg",
+        "author": "Appiya",
+        "comment": "05 Comments",
+        "category": "Google Play",
+        "content": "Far curiosity incommode now led smallness allowance. Favour bed assure son things yet. She consisted consulted elsewhere happiness disposing household any old the. Widow downs you new shade drift hopes small."
+      },
+      {
+        "title": "Booming news: Google play apps has been relese",
+        "date": "20 Nov. 2018",
+        "imgurl": "/assets/img/blog/4.jpg",
+        "author": "Appiya",
+        "comment": "05 Comments",
+        "category": "App Features",
+        "content": "Far curiosity incommode now led smallness allowance. Favour bed assure son things yet. She consisted consulted elsewhere happiness disposing household any old the. Widow downs you new shade drift hopes small."
+      }
+    ]
+  },
+  "executiveProgramList": {
+    "buttontext": " Apply Now ",
+    "job": [
+      {
+        "jobId": "1",
+        "jobtitle": "Bussines Analyst",
+        "date": "July 17, 2022",
+        "icon": "assets/img/icons/aws.png",
+        "amount": 25000,
+        "description": " <p><strong>Pre-requisites</strong></p>\\n<ul>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">You may need basic of business analytics</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">Basic IT knowledge is recommended</span></li><li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">Basic IT knowledge is recommended</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">A free-tier AWS account is recommended to follow along with the practice labs - we&rsquo;ll show you step by step how to create one</span></li>\\n</ul>\\n<p><strong>Training objectives</strong></p>\\n<p><span style=\\\"font-weight: 400;\\\">Each day new technology replaces our conventional business methods, hence new innovative startups and tech giants are hunting for business analysts those who are aware about industry trends as well as tools. We introduce a live training session for freshers or experinced analysts to boost up the analytical skills to work with social commerce as well as e-commerce innovations. &nbsp;</span></p>\\n<p><strong>Course Overview</strong></p>\\n<p><span style=\\\"font-weight: 400;\\\">Each day new technology replaces our conventional business methods, hence new innovative startups and tech giants are hunting for business analysts those who are aware about industry trends as well as tools. We introduce a live training session for freshers or experinced analysts to boost up the analytical skills to work with social commerce as well as e-commerce innovations.</span></p>\\n<ul>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">AWS overview</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">IAM</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">AWS VPC</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">EC2</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">AWS S3</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">DynamoDB</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">Lambda</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">Cloud Formation.&nbsp;&nbsp;</span></li>\\n</ul>\\n<p><strong>This online OJT is ideal for</strong><span style=\\\"font-weight: 400;\\\">:</span></p>\\n<p><span style=\\\"font-weight: 400;\\\">Graduates&nbsp;</span></p>\\n<p><span style=\\\"font-weight: 400;\\\">Students</span></p>\\n<p><span style=\\\"font-weight: 400;\\\">Professionals interested to Switch to business analyst career &nbsp;</span></p>\\n<p><span style=\\\"font-weight: 400;\\\">Analysts to upskill and to join with innovative ideas</span></p>\\n<p><span style=\\\"font-weight: 400;\\\">Professionals interested in hosting highly scalable, fault-tolerant applications on the AWS cloud</span></p>\\n<p><strong>Benefits</strong></p>\\n<ul>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">By the end of this OJT, you will be able to understand the real problems and solutions in social commerce, customer engagement & ecommerce domains.</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">&nbsp;Can identify the user specific business goals and requirements on-the-go. &nbsp;</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">&nbsp;This training will make you ready for the challenging role as Business Analyst in social commerce domain, and will enable you to leverage your skills and expertise involving advanced solutions.&nbsp;</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">Can build the business process for different users from scratch.</span></li>\\n<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">Letter of recommendation to network companies and Job Assurance</span></li>\\n</ul>"
+      },
+      {
+        "jobId": "2",
+        "jobtitle": "API Developer",
+        "date": "September 17, 2021",
+        "icon": "assets/img/icons/api.png",
+        "amount": 25000,
+        "description": "<p><strong>Pre-requisites</strong></p>\n<p><span style=\"font-weight: 400;\">For this API Developer on job training, you need to have knowledge with programming language JavaScript/Type Script</span></p>\n<p><strong>Training objectives</strong></p>\n<p><span style=\"font-weight: 400;\">The Node JS on job training will help you gain an in-depth knowledge of concepts such as Express.js, Node Packet Manager (NPM), NPM Vet, REST, Express.js with DynamoDB, and MySQL. API developer OJT focuses on the essential concepts of Node JS and provides hands-on experience in building an HTTP server. Also </span><span style=\"font-weight: 400;\">practice assignments and three live projects are designed to give you hands-on experience with the serverless architecture&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">. </span><strong>Training Overview</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understand the Nodejs framework</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Work with Node projects&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Learn asynchronous programming</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">HTTP server with Nodejs</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Buffer streams and events</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Multiprocessing in Nodejs</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Master ExpressJS&nbsp;&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Master in AWS Lambda</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">PartiQL statements&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Unit and end to end testing</span></li>\n &nbsp;</ul>\n<p><strong>Selected intern's day-to-day responsibilities include</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collaborate with teams to implement new features, improvements, and fixes needed to handle our current and future scale</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Write reusable, testable, and efficient code</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build, optimize and scale our platform and applications</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Architect, design, and implement low-latency, high-availability, and performant applications from the design prototype</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Implement secure applications and data protection&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Collaborate across teams and contribute to open source</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Troubleshoot production issues and implement fixes for them&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Stay up to date on emerging technologies Reach out to the open-source community to encourage and help implement mission-critical software fixes.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understanding code versioning tools such as Git</span><span style=\"font-weight: 400;\"><br /><br /></span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Benefits</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Node is a popular and fast-growing programming language that allows you to run JavaScript on the server side. After learning the basics of HTML, CSS, JavaScript, and Git in the Become a Web Developer learning path, discover how to build lightening-fast applications in Node.js. In this comprehensive training path, you can learn how to work with data as well as test, secure, and deploy your Node.js applications. Get practical experience building websites, microservices, and APIs using Node.js and AWS lambda.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">This Node.Js OJT can help you build powerful and complex applications without the need of complex codes.&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Real time work experience certificate</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Letter of recommendation for network companies</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Job Assurance</span></li>\n</ul>"
+      }
+    ]
+  },
+  "technicalTrainingList": {
+    "buttontext": " Apply Now ",
+    "job": [
+      {
+        "jobId": "1",
+        "jobtitle": "AWS Developer On Job Training",
+        "date": "September 17, 2021",
+        "icon": "assets/img/icons/aws.png",
+        "amount": 25000,
+        "description": "<p><strong>Pre-requisites</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">You may need basic AWS cloud services knowledge</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Basic IT knowledge is recommended</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A free-tier AWS account is recommended to follow along with the practice labs - we&rsquo;ll show you step by step how to create one</span></li>\n</ul>\n<p><strong>Training objectives</strong></p>\n<p><span style=\"font-weight: 400;\">This AWS developer OJT is aligned to the latest services released by AWS. It will help you learn the key concepts, latest trends, and best practices for working with the AWS architecture &ndash; and become industry-ready. Practice assignments and three live projects are designed to give you hands-on experience with the AWS management console.&nbsp;</span></p>\n<p><strong>Course Overview</strong></p>\n<p><span style=\"font-weight: 400;\">The course begins with an overview of the AWS platform before diving into its individual elements: IAM, VPC, EC2, EBS, ELB, CDN, S3, EIP, KMS, Route 53, RDS, CloudFront, Dynamo DB, Redshift, Auto Scaling, CloudWatch, Elastic Cache, CloudTrail, and Security.</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">AWS overview</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">IAM</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">AWS VPC</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">EC2</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">AWS S3</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">DynamoDB</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Lambda</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Cloud Formation.&nbsp;&nbsp;</span></li>\n</ul>\n<p><strong>This online OJT is ideal for</strong><span style=\"font-weight: 400;\">:</span></p>\n<p><span style=\"font-weight: 400;\">Graduates&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Students</span></p>\n<p><span style=\"font-weight: 400;\">Programmers&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Cloud Developers</span></p>\n<p><span style=\"font-weight: 400;\">Professionals interested in hosting highly scalable, fault-tolerant applications on the AWS cloud</span></p>\n<p><strong>Benefits</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">By the end of this OJT, you will be able to formulate solution plans and provide guidance on AWS architectural best practices design and deploy scalable, highly available, and fault tolerant systems on AWS.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Identify the lift and shift of an existing on-premises application to AWS. Select the appropriate AWS service based on data, compute, database, or security requirements.&nbsp; Estimate AWS costs and identify cost control mechanisms.&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">This AWS Developer training will make you ready for the challenging role as AWS Developer and will enable you to leverage your skills and expertise involving advanced cloud-based solutions and migrating existing workloads to the cloud.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Letter of recommendation to network companies and Job Assurance</span></li>\n</ul>"
+      },
+      {
+        "jobId": "2",
+        "jobtitle": "API Developer",
+        "date": "September 17, 2021",
+        "icon": "assets/img/icons/api.png",
+        "amount": 25000,
+        "description": "<p><strong>Pre-requisites</strong></p>\n<p><span style=\"font-weight: 400;\">For this API Developer on job training, you need to have knowledge with programming language JavaScript/Type Script</span></p>\n<p><strong>Training objectives</strong></p>\n<p><span style=\"font-weight: 400;\">The Node JS on job training will help you gain an in-depth knowledge of concepts such as Express.js, Node Packet Manager (NPM), NPM Vet, REST, Express.js with DynamoDB, and MySQL. API developer OJT focuses on the essential concepts of Node JS and provides hands-on experience in building an HTTP server. Also </span><span style=\"font-weight: 400;\">practice assignments and three live projects are designed to give you hands-on experience with the serverless architecture&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">. </span><strong>Training Overview</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understand the Nodejs framework</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Work with Node projects&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Learn asynchronous programming</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">HTTP server with Nodejs</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Buffer streams and events</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Multiprocessing in Nodejs</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Master ExpressJS&nbsp;&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Master in AWS Lambda</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">PartiQL statements&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Unit and end to end testing</span></li>\n &nbsp;</ul>\n<p><strong>Selected intern's day-to-day responsibilities include</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collaborate with teams to implement new features, improvements, and fixes needed to handle our current and future scale</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Write reusable, testable, and efficient code</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build, optimize and scale our platform and applications</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Architect, design, and implement low-latency, high-availability, and performant applications from the design prototype</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Implement secure applications and data protection&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Collaborate across teams and contribute to open source</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Troubleshoot production issues and implement fixes for them&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Stay up to date on emerging technologies Reach out to the open-source community to encourage and help implement mission-critical software fixes.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understanding code versioning tools such as Git</span><span style=\"font-weight: 400;\"><br /><br /></span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Benefits</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Node is a popular and fast-growing programming language that allows you to run JavaScript on the server side. After learning the basics of HTML, CSS, JavaScript, and Git in the Become a Web Developer learning path, discover how to build lightening-fast applications in Node.js. In this comprehensive training path, you can learn how to work with data as well as test, secure, and deploy your Node.js applications. Get practical experience building websites, microservices, and APIs using Node.js and AWS lambda.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">This Node.Js OJT can help you build powerful and complex applications without the need of complex codes.&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Real time work experience certificate</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Letter of recommendation for network companies</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Job Assurance</span></li>\n</ul>"
+      }
+    ]
+  },
+  "joblisting": {
+    "sectiontitle": "On <span>Job</span> Training",
+    "buttontext": " Apply Now ",
+    "job": [
+      {
+        "jobId": "1",
+        "jobtitle": "AWS Developer On Job Training",
+        "date": "September 17, 2021",
+        "icon": "assets/img/icons/aws.png",
+        "amount": 25000,
+        "description": "<p><strong>Pre-requisites</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">You may need basic AWS cloud services knowledge</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Basic IT knowledge is recommended</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A free-tier AWS account is recommended to follow along with the practice labs - we&rsquo;ll show you step by step how to create one</span></li>\n</ul>\n<p><strong>Training objectives</strong></p>\n<p><span style=\"font-weight: 400;\">This AWS developer OJT is aligned to the latest services released by AWS. It will help you learn the key concepts, latest trends, and best practices for working with the AWS architecture &ndash; and become industry-ready. Practice assignments and three live projects are designed to give you hands-on experience with the AWS management console.&nbsp;</span></p>\n<p><strong>Course Overview</strong></p>\n<p><span style=\"font-weight: 400;\">The course begins with an overview of the AWS platform before diving into its individual elements: IAM, VPC, EC2, EBS, ELB, CDN, S3, EIP, KMS, Route 53, RDS, CloudFront, Dynamo DB, Redshift, Auto Scaling, CloudWatch, Elastic Cache, CloudTrail, and Security.</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">AWS overview</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">IAM</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">AWS VPC</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">EC2</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">AWS S3</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">DynamoDB</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Lambda</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Cloud Formation.&nbsp;&nbsp;</span></li>\n</ul>\n<p><strong>This online OJT is ideal for</strong><span style=\"font-weight: 400;\">:</span></p>\n<p><span style=\"font-weight: 400;\">Graduates&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Students</span></p>\n<p><span style=\"font-weight: 400;\">Programmers&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Cloud Developers</span></p>\n<p><span style=\"font-weight: 400;\">Professionals interested in hosting highly scalable, fault-tolerant applications on the AWS cloud</span></p>\n<p><strong>Benefits</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">By the end of this OJT, you will be able to formulate solution plans and provide guidance on AWS architectural best practices design and deploy scalable, highly available, and fault tolerant systems on AWS.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Identify the lift and shift of an existing on-premises application to AWS. Select the appropriate AWS service based on data, compute, database, or security requirements.&nbsp; Estimate AWS costs and identify cost control mechanisms.&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">This AWS Developer training will make you ready for the challenging role as AWS Developer and will enable you to leverage your skills and expertise involving advanced cloud-based solutions and migrating existing workloads to the cloud.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Letter of recommendation to network companies and Job Assurance</span></li>\n</ul>"
+      },
+      {
+        "jobId": "2",
+        "jobtitle": "API Developer",
+        "date": "September 17, 2021",
+        "icon": "assets/img/icons/api.png",
+        "amount": 25000,
+        "description": "<p><strong>Pre-requisites</strong></p>\n<p><span style=\"font-weight: 400;\">For this API Developer on job training, you need to have knowledge with programming language JavaScript/Type Script</span></p>\n<p><strong>Training objectives</strong></p>\n<p><span style=\"font-weight: 400;\">The Node JS on job training will help you gain an in-depth knowledge of concepts such as Express.js, Node Packet Manager (NPM), NPM Vet, REST, Express.js with DynamoDB, and MySQL. API developer OJT focuses on the essential concepts of Node JS and provides hands-on experience in building an HTTP server. Also </span><span style=\"font-weight: 400;\">practice assignments and three live projects are designed to give you hands-on experience with the serverless architecture&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">. </span><strong>Training Overview</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understand the Nodejs framework</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Work with Node projects&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Learn asynchronous programming</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">HTTP server with Nodejs</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Buffer streams and events</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Multiprocessing in Nodejs</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Master ExpressJS&nbsp;&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Master in AWS Lambda</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">PartiQL statements&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Unit and end to end testing</span></li>\n &nbsp;</ul>\n<p><strong>Selected intern's day-to-day responsibilities include</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Collaborate with teams to implement new features, improvements, and fixes needed to handle our current and future scale</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Write reusable, testable, and efficient code</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Build, optimize and scale our platform and applications</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Architect, design, and implement low-latency, high-availability, and performant applications from the design prototype</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Implement secure applications and data protection&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Collaborate across teams and contribute to open source</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Troubleshoot production issues and implement fixes for them&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Stay up to date on emerging technologies Reach out to the open-source community to encourage and help implement mission-critical software fixes.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understanding code versioning tools such as Git</span><span style=\"font-weight: 400;\"><br /><br /></span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Benefits</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Node is a popular and fast-growing programming language that allows you to run JavaScript on the server side. After learning the basics of HTML, CSS, JavaScript, and Git in the Become a Web Developer learning path, discover how to build lightening-fast applications in Node.js. In this comprehensive training path, you can learn how to work with data as well as test, secure, and deploy your Node.js applications. Get practical experience building websites, microservices, and APIs using Node.js and AWS lambda.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">This Node.Js OJT can help you build powerful and complex applications without the need of complex codes.&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Real time work experience certificate</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Letter of recommendation for network companies</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Job Assurance</span></li>\n</ul>"
+      },
+      {
+        "jobId": "3",
+        "jobtitle": "Front-End Developers",
+        "date": "September 17, 2021",
+        "icon": "assets/img/icons/react.svg",
+        "amount": 25000,
+        "description": "<p><strong>Pre</strong><strong>-</strong><strong>requisites</strong></p>\n<p><span style=\"font-weight: 400;\">For this Front-End Developer on job training, you need to have experience with building front-end web applications with ReactJS.</span></p>\n<p>&nbsp;</p>\n<p><strong>Training objectives</strong></p>\n<p><span style=\"font-weight: 400;\">The main objective of this Front-End Developer on job training is to help you become familiar with the process and gain the skills you'll need to become a professional front-end developer with React. You will learn the fundamentals of React through self-paced and instructor-led training to understand and build React components and structure applications with Redux and Typescript. Also, you will learn key design patterns to develop complex enterprise application. You will also involve p</span><span style=\"font-weight: 400;\">ractice assignments and one live project is designed to give you hands-on experience with the React, Redux html and CSS.</span></p>\n<p><strong>Training Overview</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">React components</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">React State and Props</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">React Event Handling</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Routing in React</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">ES</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">React Redux node package</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Live project training</span></li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Who can apply</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Are available for full time internship (work from home in covid pandemic)&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Can start the internship immediately&nbsp;</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Are available for duration of 6 months</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Have relevant skills and interests</span><span style=\"font-weight: 400;\">&nbsp;</span></li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>&nbsp;Selected intern's day-to-day responsibilities include</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Use markup languages like HTML to create user-friendly and Responsive web pages</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Bringing a designer's concept to life with ReactJS</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Maintain and improve website</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Optimize applications for maximum speed</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Integrating APIs on the front end</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Collaborate with back-end developers and web designers to improve the usability</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Get feedback from, and build solutions for, users and customers</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Write functional requirement documents and guides</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Help back-end developers with coding and troubleshooting</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">&nbsp;Ensure high-quality graphic standards and brand consistency</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Stay up to date on emerging technologies Reach out to the open-source community to encourage and help implement mission-critical software fixes.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understanding code versioning tools such as Git</span><span style=\"font-weight: 400;\"><br /><br /></span></li>\n</ul>\n<p><strong>Benefits</strong></p>\n<p>&nbsp;</p>\n<ul>\n<li><strong><span style=\"font-weight: 400;\"></span><span style=\"font-weight: 400;\">React.js is a versatile JavaScript library for building interactive user interfaces easily. If you are planning to create UI/UX solutions for mobile or web, this OJT is extremely beneficial to improve your working skills.</span></strong></li>\n</ul>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Real time work experience certificate</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Letter of recommendation for network companies</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Job Assurance&nbsp;</span></li>\n</ul>\n<p>&nbsp;</p>"
+      },
+      {
+        "jobId": "4",
+        "jobtitle": "Mobile Application Developers -Flutter",
+        "date": "September 17, 2021",
+        "icon": "assets/img/icons/flutter.svg",
+        "amount": 25000,
+        "description": "<p><strong>Pre</strong><strong>-</strong><strong>requisites</strong><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">For this Mobile App Developer on job training, you need to have experience with building Mobile Applications with Flutter and familiar in Dart.</span></p>\n<p><strong>Skill(s) required</strong></p>\n<p><span style=\"font-weight: 400;\">Flutter, Git, Adobe XD, Figma</span> <span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p><strong>Training objectives</strong></p>\n<p><span style=\"font-weight: 400;\">The main objective of this course is to make you to build beautiful native apps. In Android &amp; iOS platforms easily.</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Develop app with customizable widgets.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Impress and attract an audience with powerful &amp; flexible UI.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Create user-friendly apps by incorporating critical platform differences.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Get deep insights on Flutter tool kit.&nbsp;</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">We have created this training program by keeping all young &amp; aspiring developers in mind. Those who want to show their creativity in developing apps. So, we have included all the basic to complex topics in this On Job Training program.</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who can apply?</strong></p>\n<p><span style=\"font-weight: 400;\">Only those candidates can apply who:</span></p>\n<ol>\n<li><span style=\"font-weight: 400;\"> Are available for full time internship (work from home in covid pandemic)&nbsp;</span></li>\n<li><span style=\"font-weight: 400;\"> Can start the internship immediately&nbsp;</span></li>\n<li><span style=\"font-weight: 400;\"> Are available for duration of 6 months</span></li>\n<li><span style=\"font-weight: 400;\"> have relevant skills and interests </span><span style=\"font-weight: 400;\">-&nbsp;</span></li>\n</ol>\n<p><strong>Selected intern's day-to-day responsibilities include:</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Create multi-platform apps for iOS &amp; Android using Google's Flutter development framework</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Publish/Manage app to Play Store and App Store</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Leverage native APIs for deep integrations with both platforms</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Diagnose and fix bugs and performance bottlenecks for performance that feels native</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Stay up to date on emerging technologies Reach out to the open-source community to encourage and help implement mission-critical software fixes.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Understanding code versioning tools such as Git</span></li>\n</ul>\n<p><strong>Benefits</strong></p>\n<p>&nbsp;</p>\n<ul>\n<li><strong><span style=\"font-weight: 400;\"></span><span style=\"font-weight: 400;\">React.js is a versatile JavaScript library for building interactive user interfaces easily. If you are planning to create UI/UX solutions for mobile or web, this OJT is extremely beneficial to improve your working skills.</span></strong></li>\n</ul>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Real time work experience certificate</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Letter of recommendation for network companies</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Job Assurance&nbsp;</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\"><br /><br /></span></p>\n<p>&nbsp;</p>"
+      },
+      {
+        "jobId": "5",
+        "jobtitle": "Python Developer with Django and Web Apps",
+        "date": "September 28, 2021",
+        "icon": "assets/img/icons/python.png",
+        "amount": 15000,
+        "description": "<div><strong>Job Opening for Python Developer with Django and Web Apps for Bangalore location</strong></div>\n<div>\n<div>\n<div><strong>Responsibilities:</strong><br />\n<ul>\n<li>Develop specifications in collaboration with stakeholders</li>\n<li>Design and Develop features for SaaS and Virtual Appliance form factors</li>\n<li>Write efficient code that is reusable and testable</li>\n<li>Participate in design and code reviews</li>\n<li>Expert in Python, with knowledge of at least one Python web framework such as Django, Flask, etc depending on your technology stack</li>\n<li>Familiarity with some ORM (Object Relational Mapper) libraries</li>\n<li>Able to integrate multiple data sources and databases into one system</li>\n<li>Understanding of the threading limitations of Python, and multi-process architecture</li>\n<li>Good understanding of server-side templating languages such as Jinja 2, Mako, etc depending on your technology stack</li>\n<li>Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3</li>\n<li>Understanding of accessibility and security compliance</li>\n</ul>\n<div>&nbsp;</div>\n</div>\n</div>\n<div><strong>Qualifications/Required Skills/Experience:</strong><br />\n<ul>\n<li>BSc/B Eng/MSc/ in Computer Science, Engineering or equivalent experience</li>\n<li>&nbsp;Interested in a career&nbsp;in software development experience as a professional&nbsp;</li>\n<li>Understanding of fundamental design principles behind a scalable application</li>\n<li>Strong teamwork and communication skills</li>\n<li>Excellent problem-solving capabilities</li>\n<li>Strong unit test and debugging skills</li>\n</ul>\n</div>\n</div>"
+      },
+      {
+        "jobId": "6",
+        "jobtitle": "Web designer and Developer",
+        "date": "September 28, 2021",
+        "icon": "assets/img/icons/html.png",
+        "amount": 10000,
+        "description": "<div>\n<div><strong>Responsibilities:</strong></div>\n<ul>\n<ul>\n<li>Conceptualizing creative ideas with clients.&nbsp;</li>\n<li>Testing and improving the design of the website.</li>\n<li>Establishing design guidelines, standards, and best practices.</li>\n<li>Maintaining the appearance of websites by enforcing content standards.</li>\n<li>Designing visual imagery for websites and ensuring that they are in line with branding for clients.</li>\n<li>Working with different content management systems.</li>\n<li>Communicating design ideas using user flows, process flows, site maps, and wireframes.</li>\n<li>Incorporating functionalities and features into websites.</li>\n<li>Designing sample pages including colors and fonts.</li>\n<li>Preparing design plans and presenting the website structure.</li>\n<li>Draw up detailed website specifications</li>\n<li>design sample page layouts including text size and colours</li>\n<li>design graphics, animations and manipulate digital photographs</li>\n<li>register web domain names and organise the hosting of the website</li>\n<li>present initial design ideas to clients</li>\n<li>carry out coding using a variety of software</li>\n<li>work with different content management systems</li>\n<li>search engine optimisation (SEO)</li>\n<li>meet relevant legal requirements such as accessibility standards, freedom of information and privacy</li>\n<li>design the website's visual imagery and ensure it's in line with company branding policy or the requirements of the client</li>\n<li>proofread content and make changes where necessary</li>\n<li>edit content, debug code and re-design web pages</li>\n<li>work with other web specialists, including web developers and graphic designers</li>\n<li>liaise with outside agencies</li>\n<li></li>\n<li>Up-to-date experience with international web protocols, standards, and technologies.</li>\n<li>Creative and open to new ideas.</li>\n<li>Adaptable and willing to learn new techniques.</li>\n</ul>\n<p><strong>Required Skills/Experience:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n</li>\n<li>\n<p>Soft skills include:</p>\n<ul>\n<li>Attention to detail and creativity</li>\n<li>Data&nbsp; and trend analysis</li>\n<li>Team work</li>\n<li>Problem solving</li>\n<li>Delivering presentations</li>\n<li>Ability to teach yourself new technical skills</li>\n<li>Communication skills.</li>\n</ul>\n<p><strong>Technical skills include:</strong></p>\n<ul>\n<li>Coding&nbsp;- HTML, CSS, Javascript, jQuery, Dreamweaver</li>\n<li>Programming&nbsp;- .Net, XML/XSLT, ASP, PHP, Python, Django</li>\n<li>Design and graphics&nbsp;- InDesign, Illustrator, Photoshop, Flash</li>\n<li>Content management system (CMS)&nbsp;- Wordpress, Adobe Business Catalyst, Drupal, Joomla, Ektron, Zope.</li>\n</ul>\n</li>\n</ul>\n</div>\n<p>&nbsp;</p>"
+      },
+      {
+        "jobId": "7",
+        "jobtitle": "UI/UX Designer",
+        "date": "September 28, 2021",
+        "icon": "assets/img/icons/figma.svg",
+        "amount": 10000,
+        "description": "<div><strong>Responsibilities:<br /></strong></div>\n<div>&nbsp;</div>\n<div>\n<ul>\n<li>\n<p>Creating user flows, wireframes, prototypes and mockups</p>\n</li>\n<li>\n<p>Translating requirements into style guides, design systems, design patterns and attractive user interfaces</p>\n</li>\n<li>\n<p>Designing UI elements such as input controls, navigational components and informational components</p>\n</li>\n<li>\n<p>Creating original graphic designs (e.g. images, sketches and tables)</p>\n</li>\n<li>\n<p>Identifying and troubleshooting UX problems (e.g. responsiveness)</p>\n</li>\n<li>\n<p>Collaborating effectively with product, engineering, and management teams</p>\n</li>\n<li>\n<p>Incorporating customer feedback, usage metrics, and usability findings into design in order to enhance user experience</p>\n</li>\n<li></li>\n<li>Investigating user experience design requirements for our suite of digital assets.</li>\n<li>Developing and conceptualizing a comprehensive UI/UX design strategy for the brand.</li>\n<li>Producing high-quality UX design solutions through wireframes, visual and graphic designs, flow diagrams, storyboards, site maps, and prototypes.</li>\n<li>Designing UI elements and tools such as navigation menus, search boxes, tabs, and widgets for our digital assets.</li>\n<li>Testing UI elements such as CTAs, banners, page layouts, page designs, page flows, and target links for landing pages.</li>\n<li>Collaborating with the marketing team, and internal and external designers to ensure the creation and delivery of tailored experiences for the digital user.</li>\n<li>Providing advice and guidance on the implementation of UX research methodologies and testing activities in order to analyze and predict user behavior.</li>\n<li>Adhering to style standards on typography and graphic design.</li>\n</ul>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<strong>Qualifications</strong></div>\n<div><strong>Required Skills/Experience:</strong>&nbsp; &nbsp;&nbsp;</div>\n<div>\n<ul>\n<li>Bachelor's degree and a minimum of 2 years UI/UX design experience for digital products or services.</li>\n<li>A portfolio of professional UI/UX design work for both web and mobile platforms.</li>\n<li>Working knowledge of the following technologies and software: Sketch, InVision, Visio, HTML, CSS (SCSS), iOS, Android, Design Systems, and Adobe Creative Suite.</li>\n<li></li>\n<li>Portfolio of design projects</li>\n<li>Knowledge of wireframe tools (e.g. Wireframe.cc and InVision)</li>\n<li>Team spirit; strong communication skills to collaborate with various stakeholders</li>\n<li>Good time-management skills</li>\n<li>BSc in Design, Computer Science or relevant field</li>\n<li>A team player but can work independently too.</li>\n<li>Excellent written and verbal communication skills.</li>\n<li>Multi-tasking and time-management skills, with the ability to prioritize tasks.</li>\n</ul>\n</div>\n<p>&nbsp;</p>"
+      },
+      {
+        "jobId": "8",
+        "jobtitle": "Digital Marketing Manager",
+        "date": "September 28, 2021",
+        "icon": "assets/img/icons/sales.png",
+        "amount": 10000,
+        "description": "<div><strong>Responsibilities:</strong></div>\n<div>\n<ul>\n<li>Design and oversee all aspects of our digital marketing department including our marketing database, email, and display advertising campaigns.</li>\n<li>Develop and monitor campaign budgets.</li>\n<li>Plan and manage our social media platforms across all digital channels.</li>\n<li></li>\n<li>Planning digital marketing campaigns, including web, SEO/SEM, email, social media and display advertising</li>\n<li>Prepare accurate reports on our marketing campaign&rsquo;s overall performance.</li>\n<li>Coordinate with advertising and media experts to improve marketing results.</li>\n<li>Identify the latest trends and technologies affecting our industry.</li>\n<li>Evaluate important metrics that affect our website traffic, service quotas, and target audience.</li>\n<li>Work with your team to brainstorm new and innovative growth strategies.</li>\n<li>Oversee and manage all contests, giveaways, and other digital projects.</li>\n</ul>\n<div>\n<div><strong>Qualifications</strong></div>\n<div><strong>Required Skills/Experience:&nbsp;</strong></div>\n</div>\n<div>\n<ul>\n<li>Bachelor&rsquo;s degree in marketing or relevant field.</li>\n<li>Experience in a digital marketing or advertising position.</li>\n<li>In-depth knowledge of various social media platforms, best practices, and website analytics.</li>\n<li>A solid understanding of HTML, CSS, and JavaScript is required.</li>\n<li>Highly creative with excellent analytical abilities.</li>\n<li>Outstanding communication and interpersonal skills.</li>\n<li>Up-to-date on the latest trends and technologies in digital marketing.</li>\n</ul>\n</div>\n</div>\n<p>&nbsp;</p>"
+      }
+    ]
+  },
+  "faq": {
+    "sectiontitle": "Frequently",
+    "sectiioncolor": "Asked Questions",
+    "items": [
+      {
+        "title": "How do i pay?",
+        "class": "show",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      },
+      {
+        "title": "How long does delivery take?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      },
+      {
+        "title": "How is the payment methode?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      },
+      {
+        "title": "When will i receive my refund?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      },
+      {
+        "title": "How long does delivery take?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      },
+      {
+        "title": "How much is the shipping?",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+      }
+    ]
+  },
+  "latestpost": {
+    "sectiontitle": "Our Latest",
+    "sectiioncolor": "Post",
+    "subtitle": "Riyaqas One of the best Software Development company. Riyaqas is at the forefront as the most.",
+    "items": [
+      {
+        "title": "Digital Marketing Problem Solving Meating",
+        "content": "Riyaqas One of the best Software Development company. Web Riyaqas is forefront as the most innovative",
+        "url": "/blog-details",
+        "image": "assets/img/blog/9.png",
+        "author": "admin",
+        "date": "Nov 18, 2019",
+        "author_image": "assets/img/blog/comments/2.png"
+      },
+      {
+        "title": "We are Solving Digital Marketing System",
+        "content": "Riyaqas One of the best Software Development company. Web Riyaqas is forefront as the most innovative",
+        "url": "/blog-details",
+        "image": "assets/img/blog/10.png",
+        "author": "admin",
+        "date": "Nov 18, 2019",
+        "author_image": "assets/img/blog/comments/2.png"
+      },
+      {
+        "title": "Market Analysis Process We are Solving",
+        "content": "Riyaqas One of the best Software Development company. Web Riyaqas is forefront as the most innovative",
+        "url": "/blog-details",
+        "image": "assets/img/blog/8.png",
+        "author": "admin",
+        "date": "Nov 18, 2019",
+        "author_image": "assets/img/blog/comments/2.png"
+      }
+    ]
+  },
+  "getintouch": {
+    "sectiontitle": "Get In Touch",
+    "subtitle": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. support team will get assistance from AI-powered suggestions.",
+    "items": [
+      {
+        "title": "Phone Number",
+        "features": ["+088 012121240", "+088 5412586887"]
+      },
+      {
+        "title": "Email Address",
+        "features": ["riyaqas@gmail.com", "codingeek@gmail.com"]
+      },
+      {
+        "title": "Office Address",
+        "features": [
+          "Address: 198 West 21th Street, Suite 721 New York NY 10010"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "categorylist": [
+      {
+        "catname": "Business",
+        "slug": "business"
+      },
+      {
+        "catname": "Finance",
+        "slug": "finance"
+      },
+      {
+        "catname": "Technology",
+        "slug": "technology"
+      },
+      {
+        "catname": "Development",
+        "slug": "development"
+      }
+    ],
+    "items": [
+      {
+        "class": "business technology",
+        "img": "assets/img/gallery/1.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "finance technology",
+        "img": "assets/img/gallery/2.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "business development",
+        "img": "assets/img/gallery/3.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "finance development",
+        "img": "assets/img/gallery/4.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "business technology",
+        "img": "assets/img/gallery/6.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "finance development",
+        "img": "assets/img/gallery/7.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "finance technology",
+        "img": "assets/img/gallery/8.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "technology development",
+        "img": "assets/img/gallery/9.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      },
+      {
+        "class": "finance technology",
+        "img": "assets/img/gallery/4.png",
+        "title": "Ui Problem solving",
+        "tag": "UI/UX Design"
+      }
+    ]
+  },
+  "JobAplly": {
+    "sectiontitle": "Apply Now",
+    "sectionsubtitle": "Please upload your resume and fill in the fields below to apply for your desired position."
+  },
+  "contactinfo": {
+    "title": "Contact info:",
+    "description": "",
+    "address": "Address: NO.14, Hosabasavanapura, Krishnarajapura, Bengaluru, Karnataka",
+    "mobile": "Mob: 7090070200, 9037243199",
+    "mail": "hello@migobucks.com"
+  },
+  "contactform": {
+    "title": "Get In",
+    "title_color": "Touch",
+    "description": "Ask Your Queries",
+    "image": "assets/img/others/21.png"
+  }
+}

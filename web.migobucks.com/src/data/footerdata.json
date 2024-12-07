@@ -1,0 +1,82 @@
+{
+  "footerlogo": "assets/img/logo.svg",
+  "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+  "footerbg": "assets/img/bg/footer.png",
+  "socialicon": [
+    {
+      "icon": "fa fa-facebook",
+      "url": "https://www.facebook.com/migobucks",
+      "main": "#3b5998",
+      "iconUrl": "assets/img/icons/facebook_icon.png"
+    },
+    {
+      "icon": "fa fa-twitter",
+      "url": "https://twitter.com/codingeeknet",
+      "main": "#55acee",
+      "iconUrl": "assets/img/icons/twitter_icon.png"
+    },
+    {
+      "icon": "fa fa-linkedin",
+      "url": "https://www.linkedin.com/company/migobucks/",
+      "main": "#0077b5",
+      "iconUrl": "assets/img/icons/linkedIn_icon.png"
+    },
+    {
+      "icon": "fa fa-whatsApp",
+      "url": "https://wa.me/9037243199",
+      " main": "#125688",
+      "iconUrl": "assets/img/icons/whatsapp_icon.png"
+    }
+  ],
+  "copyrighttext": " © Migobucks 2021 All rights reserved, Made with<a href='https://migobucks.com' target='_blank'><i class='fa fa-heart'></i><span>Migobucks.</span></a>",
+  "contactwidget": {
+    "title": "GET IN TOUCH",
+    "address": "NO.14, Hosabasavanapura, Krishnarajapura",
+    "city": " Bengaluru, ",
+    "state": "Karnataka",
+    "contact": "Mob: 7090070200, 9037243199",
+    "email": "hello@migobucks.com"
+  },
+  "quicklink": {
+    "title": "Quick Link",
+    "links": [
+      {
+        "title": "Home",
+        "url": ""
+      },
+      {
+        "title": "About Us",
+        "url": "/about"
+      },
+      {
+        "title": "Training",
+        "url": "ojt"
+      },
+      {
+        "title": "Contact",
+        "url": "contact"
+      }
+    ]
+  },
+  "needhelp": {
+    "title": "Need Help?",
+    "links": [
+      {
+        "title": "Privacy Policy",
+        "url": "Privacy"
+      },
+      {
+        "title": "Support",
+        "url": "contact"
+      },
+      {
+        "title": "Terms and Conditions",
+        "url": "Terms"
+      }
+    ]
+  },
+  "latestnews": {
+    "title": "Latest News",
+    "items": []
+  }
+}
